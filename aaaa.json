@@ -187,4 +187,10 @@
         "version": 0,
         "mentionLineColor": "#FFA90A"
     }
+  "background": {
+    "blur": 1,
+    "url": "https://raw.githubusercontent.com/hauntertea/boo2/refs/heads/main/1000012770.png",
+    "alpha": 0.46
+  },
+  "spec": 2
 }
