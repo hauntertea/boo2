@@ -184,22 +184,6 @@
         "PRIMARY_700": "#0f0f10",
         "PRIMARY_800": "#0C0B0C"
     },
-  "plus": {
-    "version": 0,
-    "unreadBadgeColor": "#544b3b",
-    "mentionLineColor": "#c4c473",
-      "icons": {
-        "ic_radio_circle_checked": "#6a632f",
-        "ic_selection_checked_24px": "RC_BRAND_500",
-        "ic_new_pins": "#f5e77a",
-        "boost": "#f5ed94",
-        "ic_settings_boost_24px": "#f5e894",
-        "member_list_badge_16px": "#f5e894"
-    },
-  "customOverlays": true,
-  "iconpack":"deco"
-},
-  
   "background": {
     "blur": 1,
     "url": "https://raw.githubusercontent.com/hauntertea/boo2/refs/heads/main/Untitled859_20250521034919.png",
